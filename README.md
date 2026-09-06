@@ -3,6 +3,7 @@
 "My name is Guilherme Medina. I'm currently focusing on developing RPA with Python, but I'm also studying web development with HTML, CSS, and JavaScript. I'm aiming to learn more to become a better professional in my IT career, so I'm also studying APIs, SQL, OOP, Git, cloud computing, and computer networks.
 I work with RPA using Python and Power Automate (Desktop and Web).
 I'm almost graduating in Information Systems at FAM (Faculdade das Américas) and I started a new degree (Cross-Platform Software Development) at FATEC in June 2026."
+
 “It's the job that's never started as takes longest to finish.”
 ― J.R.R. Tolkien, The Lord of the Rings
 
