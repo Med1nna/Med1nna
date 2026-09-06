@@ -4,7 +4,7 @@
 I work with RPA using Python and Power Automate (Desktop and Web).
 I'm almost graduating in Information Systems at FAM (Faculdade das Américas) and I started a new degree (Cross-Platform Software Development) at FATEC in June 2026."
 
-“It's the job that's never started as takes longest to finish.”
+“It's the job that's never started as takes longest to finish.” 
 ― J.R.R. Tolkien, The Lord of the Rings
 
 ### 💻 Tech Stack
