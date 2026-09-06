@@ -10,7 +10,7 @@ My name is Guilherme Medina, i'm actually focusing in developing RPA with Python
 ![](https://streak-stats.demolab.com/?user=Med1nna&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Med1nna&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 “It's the job that's never started as takes longest to finish.”
+― J.R.R. Tolkien, The Lord of the Rings
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
